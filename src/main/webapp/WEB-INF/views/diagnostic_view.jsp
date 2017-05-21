@@ -3,10 +3,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Greeting You</title>
+    <title>Sign in with your name</title>
 </head>
 <body>
-    <div>You are at ${server}</div>
-    Welcome ${name}!!
+    SUCCESS
 </body>
 </html>

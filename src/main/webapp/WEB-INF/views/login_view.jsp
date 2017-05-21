@@ -6,6 +6,7 @@
     <title>Sign in with your name</title>
 </head>
 <body>
+    <div>You are at ${server}</div>
     <form action="/login" method="post">
         <label for="name">Your name: </label>
         <input id="name" name="name" placeholder="Input your name here.."/>
